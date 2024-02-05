@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Shiraz</h1>
-<h3 align="center">A passionate python developer from India</h3>
+<h3 align="center">A passionate frontend developer from India</h3>
 
-- 🌱 I’m currently learning **python,react,wordpress,...**
+- 🌱 I’m currently learning **reactjs,css module,node js,express js,mongodb...**
 
-- 💬 Ask me about **python,react...**
+- 💬 Ask me about **react js...**
 
 - 📫 How to reach me **blackboytechie@gmail.com**
 
